@@ -1,2 +1,5 @@
-# LING-580
-Notes for UW LING 580 Speech perception and bias
+# UW LING 580 - Speech Perception and Bias
+
+Notes for LING 580
+
+Caveat emptor: my lecture notes are a mess
