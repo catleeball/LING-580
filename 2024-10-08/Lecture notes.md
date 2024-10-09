@@ -132,7 +132,7 @@ motor theory
 
 vowel space is not front / back of tract, it's relative to surrounding sounds 
 
-![[Screenshot 2024-10-08 at 4.22.55 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.22.55 PM.png.webp]]
 
 also proposing speech is special and unlike other sounds
 - related to studying speech aquisition
@@ -143,7 +143,7 @@ also proposing speech is special and unlike other sounds
 
 motor theory evidence
 
-![[Screenshot 2024-10-08 at 4.24.18 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.24.18 PM.png.webp]]
 
 pollock in the 50s saw you get 50 db signal boost to perceieved audio signal if you add visual 
 
@@ -156,7 +156,7 @@ haptic info- put your hand on someone's mouth in a noisy env and you get a lot e
 
 However problems:
 
-![[Screenshot 2024-10-08 at 4.29.06 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.29.06 PM.png.webp]]
 
 - oh but we use context too
 - mcgurk not reliably equal across listeners but auditory perception is
@@ -179,7 +179,7 @@ However problems:
 
 Modern motor theory
 
-![[Screenshot 2024-10-08 at 4.39.06 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.39.06 PM.png.webp]]
 
 - converges back to allophones / phonemes
 - still listtle evidence for a phone-based or alphabetic representation in non-literate populations
@@ -188,7 +188,7 @@ Modern motor theory
 - s is complex but very common, why is theta so uncommon relatively?
 	- (missed it)
 
-![[Screenshot 2024-10-08 at 4.44.53 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.44.53 PM.png.webp]]
 
 General auditory
 - not the auditorist version of motor theory that auditorists pushed back against
@@ -212,7 +212,7 @@ General auditory
 		- but not always and not always automatic
 	- might be since you listen to yourself to so you could hear
 
-![[Screenshot 2024-10-08 at 4.51.45 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.51.45 PM.png.webp]]
 - Double weak (neary 1992) and Dual Stream (hickok & poeppel 200{0,4,7})
 	- despite strong auditory approaches, there are times when motor areas of brain used for speech perception
 		- perception draws on all the info it can
@@ -220,7 +220,7 @@ General auditory
 - gesturalists said only audio no gesture
 - double weak says it takes both
 - 
-![[Screenshot 2024-10-08 at 4.54.22 PM.png.webp]]
+[[Screenshot 2024-10-08 at 4.54.22 PM.png.webp]]
 
 - "a little bit" in this clip sounds like "blbi"
 - "dirty" extra articulated for pragmatic reasons
@@ -229,17 +229,17 @@ General auditory
 
 Hickok & poeppel: model of cortical network
 
-![[Screenshot 2024-10-08 at 5.00.13 PM.png.webp]]
+[[Screenshot 2024-10-08 at 5.00.13 PM.png.webp]]
 
 dual stream model
 
-![[Screenshot 2024-10-08 at 5.00.49 PM.png.webp]]
+[[Screenshot 2024-10-08 at 5.00.49 PM.png.webp]]
 
 laughing / crying can make it hard to make a sentence, needs continuous uninterrupted stream
 
 motor area might be skipped or engaged
 
-![[Screenshot 2024-10-08 at 5.02.45 PM.png.webp]]
+[[Screenshot 2024-10-08 at 5.02.45 PM.png.webp]]
 
 articulators aren't flying around independently of our brains
 
